@@ -1,6 +1,6 @@
 # Emily Willman
-(757) 943-5149
-egwillman27@gmail.com
+(757) 943-5149\
+egwillman27@gmail.com\
 www.linkedin.com/in/emily-willman
 
 ## <ins>Qualifications Summary</ins> 
@@ -9,9 +9,9 @@ www.linkedin.com/in/emily-willman
 - Five years customer service experience 
 
 ## <ins>Education</ins>
-**Appalachian State University - [Deparment of Geological and Environemntal Science](https://earth.appstate.edu/)** 
-B.S in Environmental Science - Earth Systems concentration
-Certificate in Geospatial Information Systems 
+**Appalachian State University - [Deparment of Geological and Environemntal Science](https://earth.appstate.edu/)**\
+B.S in Environmental Science - Earth Systems concentration\
+Certificate in Geospatial Information Systems\ 
 GPA 3.7 
 
 ## <ins>Field and Lab Research Experience</ins>
@@ -40,7 +40,7 @@ GPA 3.7
 - Managed deli inventory, prepared special orders, and operated equipment ensuring quality and safety standards
 
 ## <ins>Professional Presentations</ins>
-J Parker, **E Willman**, RF Swarthout. 2023. Oil Hydrocarbon Fingerprinting to Validate Flux Estimates in the Gulf of Mexico. Carolina SETAC. Charleston, SC, Apr 19-21. Poster presentation.
+J Parker, **E Willman**, RF Swarthout. 2023. Oil Hydrocarbon Fingerprinting to Validate Flux Estimates in the Gulf of Mexico. Carolina SETAC. Charleston, SC, Apr 19-21. Poster presentation.\
 **E Willman**, H Hodge, RF Swarthout. 2024. Quantifying Biodegradation Rates of Diluted Bitumen Oil from the 2010 Kalamazoo River Oil Spill. Carolina SETAC. Boone, NC, Apr 14-16.
 
 ![PDF of Dilbit Poster.](Willman_Hodge_Poster.jpg)
