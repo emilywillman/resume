@@ -11,7 +11,7 @@ www.linkedin.com/in/emily-willman
 ## <ins>Education</ins>
 **Appalachian State University - [Deparment of Geological and Environemntal Science](https://earth.appstate.edu/)**\
 B.S in Environmental Science - Earth Systems concentration\
-Certificate in Geospatial Information Systems\ 
+Certificate in Geospatial Information Systems\
 GPA 3.7 
 
 ## <ins>Field and Lab Research Experience</ins>
